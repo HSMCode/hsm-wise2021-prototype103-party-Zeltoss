@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class STOP : MonoBehaviour
 {
-    float time = 19f;
-    float time2 = 30f;
-    float time3 = 42.4f;
-    float time4 = 56.7f;
-    float time5 = 61.8f;
-    float time6 = 71.8f;
+    float time = 17f;
+    float time2 = 28f;
+    float time3 = 40.4f;
+    float time4 = 54.7f;
+    float time5 = 59.8f;
+    float time6 = 69.8f;
     float pause = 2f;
       
       void Start()

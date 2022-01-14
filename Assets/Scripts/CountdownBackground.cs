@@ -5,7 +5,7 @@ using UnityEngine;
 public class CountdownBackground : MonoBehaviour
 {
     float Background = 0f;
-    float pause = 2f;
+    float pause = 3f;
       
       void Start()
       {

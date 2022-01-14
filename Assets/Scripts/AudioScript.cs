@@ -11,7 +11,7 @@ public class AudioScript : MonoBehaviour
     void Start()
     {
        myAudio = GetComponent<AudioSource>();
-       myAudio.PlayDelayed(2.0f);
+       myAudio.PlayDelayed(0f);
     }
 
 

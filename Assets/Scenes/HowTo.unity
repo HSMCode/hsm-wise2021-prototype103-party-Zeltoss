@@ -373,10 +373,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -609,7 +609,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -126, y: 222}
-  m_SizeDelta: {x: 328, y: 104}
+  m_SizeDelta: {x: 471.66, y: 104}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &999706678
 MonoBehaviour:
@@ -632,7 +632,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 23cbdaad1d230eb44906dc24e8edf284, type: 3}
+    m_Font: {fileID: 12800000, guid: a1e579ecf64969b44a2a4295a35abb7a, type: 3}
     m_FontSize: 80
     m_FontStyle: 1
     m_BestFit: 0
@@ -1122,7 +1122,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -137, y: -12}
-  m_SizeDelta: {x: 1443, y: 367}
+  m_SizeDelta: {x: 1508.27, y: 367}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2141348966
 MonoBehaviour:
@@ -1157,9 +1157,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 0.62
-  m_Text: "Dr\xFCcke die Space-Taste um dem Rhythmus des Songs zu folgen und dir
-    Beats zu verdienen.\n\nSobald die Musik Stoppt, dr\xFCcke die Space-Taste nicht
-    weiter um Minuspunkte zu vermeiden.\n\n\nJeder Beat z\xE4hlt 1 Punkt\n\nPatzer
+  m_Text: "Dr\xFCcke wiederholt die Space-Taste und folge dem Rhythmus des Songs
+    um dir Beats zu verdienen.\n\nSobald die Musik Stoppt, dr\xFCcke die Space-Taste
+    nicht weiter um Minuspunkte zu vermeiden.\n\n\nJeder Beat z\xE4hlt 1 Punkt\n\nPatzer
     bringen 2 Minuspunkte"
 --- !u!222 &2141348967
 CanvasRenderer:

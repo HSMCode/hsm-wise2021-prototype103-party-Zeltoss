@@ -141,7 +141,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &14456765
 RectTransform:
   m_ObjectHideFlags: 0
@@ -214,7 +214,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: FeelTheRhythm_Level_2
+          m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &14456767
@@ -273,7 +273,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &154227267
 RectTransform:
   m_ObjectHideFlags: 0
@@ -457,7 +457,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: TheFatRat
+  m_Text: 
 --- !u!222 &169022412
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -909,7 +909,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: PLACEHOLDER
+  m_Text: COMING SOON
 --- !u!222 &589786921
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -988,7 +988,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: TheFatRat
+  m_Text: 
 --- !u!222 &591665386
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1321,7 +1321,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: PLACEHOLDER
+  m_Text: COMING SOON
 --- !u!222 &977173031
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1427,7 +1427,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1031616964
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1559,7 +1559,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1185496222
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1743,7 +1743,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: PLACEHOLDER
+  m_Text: COMING SOON
 --- !u!222 &1333176000
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1822,7 +1822,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: TheFatRat
+  m_Text: 
 --- !u!222 &1471886828
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1901,7 +1901,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: PLACEHOLDER
+  m_Text: COMING SOON
 --- !u!222 &1597216274
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2348,7 +2348,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: TheFatRat
+  m_Text: 
 --- !u!222 &1739710469
 CanvasRenderer:
   m_ObjectHideFlags: 0

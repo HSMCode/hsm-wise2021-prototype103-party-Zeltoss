@@ -8,7 +8,7 @@ public class Score : MonoBehaviour
     public Text scoreText;
  
     public static int score;
-    int myNumber = 0;
+    //int myNumber = 0;
 
     // private bool _canStart = true;
     // public int countdown = 3;
@@ -25,13 +25,13 @@ public class Score : MonoBehaviour
  
         if (Input.GetKeyDown(KeyCode.Space)) // && _canStart)
         {
-        myNumber += 1;
-        if (myNumber < 30)
+        //myNumber += 1;
+        //if (myNumber < 30)
             AddScore(1);
             // StartCoroutine(Cooldown());
         
-        else // if (Input.GetKeyDown(KeyCode.Space) &&!_canStart)
-            LooseScore(2);
+        //else // if (Input.GetKeyDown(KeyCode.Space) &&!_canStart)
+            //LooseScore(2);
         }
 
         // IEnumerator Cooldown()

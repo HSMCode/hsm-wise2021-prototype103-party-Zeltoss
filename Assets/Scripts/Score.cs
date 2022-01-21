@@ -26,7 +26,7 @@ public class Score : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space)) // && _canStart)
         {
         myNumber += 1;
-        if (myNumber < 21)
+        if (myNumber < 30)
             AddScore(1);
             // StartCoroutine(Cooldown());
         

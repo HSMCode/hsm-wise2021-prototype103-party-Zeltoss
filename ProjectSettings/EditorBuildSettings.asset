@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/FeelTheRythm.unity
+    path: Assets/Scenes/MainMenu.unity
+    guid: 7f345e5b401c1484e9edee4c433ef809
+  - enabled: 1
+    path: Assets/Scenes/HowTo.unity
+    guid: 2b3e0141d1020d0408dd25c1566f63e6
+  - enabled: 1
+    path: Assets/Scenes/SongList.unity
+    guid: 6ebf68ee548ce7240ac9bc0810aee5f6
+  - enabled: 1
+    path: Assets/Scenes/FeelTheRhythm_Level_1.unity
+    guid: 2e1f0ab194c7ef740b25ce375982d0ab
+  - enabled: 1
+    path: Assets/Scenes/FeelTheRhythm_Level_2.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}

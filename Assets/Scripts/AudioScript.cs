@@ -4,22 +4,12 @@ using UnityEngine;
 
 public class AudioScript : MonoBehaviour
 {
-
     AudioSource myAudio;
 
-    // Start is called before the first frame update
+    // One second cooldown for every music in each level
     void Start()
     {
        myAudio = GetComponent<AudioSource>();
-       myAudio.PlayDelayed(0f);
-    }
-
-
-
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+       myAudio.PlayDelayed(1f);
     }
 }

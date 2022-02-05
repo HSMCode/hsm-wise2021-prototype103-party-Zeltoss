@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class SwitchToLevel : MonoBehaviour
 {
+    // loading a specific scene that is typed in the field (script for all the buttons)
     public void btn_change_scene(string scene_name)
     {
         SceneManager.LoadScene(scene_name);

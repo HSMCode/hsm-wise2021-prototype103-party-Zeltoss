@@ -19,5 +19,14 @@ EditorBuildSettings:
     guid: 2e1f0ab194c7ef740b25ce375982d0ab
   - enabled: 1
     path: Assets/Scenes/FeelTheRhythm_Level_2.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    guid: 76164cae9dd891e49b5e9c8dcbef910f
+  - enabled: 1
+    path: Assets/Scenes/FeelTheRhythm_Level_3.unity
+    guid: 47bcea40461d4014a97ed531fca98e79
+  - enabled: 1
+    path: Assets/Scenes/FeelTheRhythm_Level_4.unity
+    guid: a0e51b1b8131ac94e9444d633a886bf1
+  - enabled: 1
+    path: Assets/Scenes/FeelTheRhythm_Level_5.unity
+    guid: 062a065d0333969409fd041bd91c39f6
   m_configObjects: {}

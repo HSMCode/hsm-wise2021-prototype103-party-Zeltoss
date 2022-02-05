@@ -24,6 +24,7 @@ Learn and feel the Beat to get points, but pay attention to the random "**STOPS!
 ## WebGL Latency/Loading Issue
 
 - There is a bug with WebGL, that causes problems with the loading/latency of the music in each level. This bug can may or may not occur on your browser.
+
 **WORKAROUND:** Go to the "How to Play" or "Song List" page and head back to the Main Menu. If the the problem still exist, try to reload the tab in your browser.
 
 ## Authors

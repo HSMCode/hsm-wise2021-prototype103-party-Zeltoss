@@ -1,96 +1,33 @@
-# Project Title
+# Feel the Rhythm
 
-This project was imported using the **Unity 2020.3.x** empty base project.
-Please fill out/change the ReadMe according to your needs, following the guide below.
+*Feel the Rhythm* is a one button game created in Unity by Frederik Schneider.
 
-One Paragraph of project description goes here.
+This Project is the final task for the **Game Entwicklung (Unity) – One Button** class by Linda Kruse.
 
-## Summary
+*Keep in mind: This is the 1.0.0 Release Version! If you find any bugs, let me know.*
 
-  - [Getting Started](#getting-started)
-  - [Runing the tests](#running-the-tests)
-  - [Deployment](#deployment)
-  - [Built With](#built-with)
-  - [Contributing](#contributing)
-  - [Versioning](#versioning)
-  - [Authors](#authors)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
+## Game Description
+
+It is time to test your Rhythm and your reflexes. Each level has a different difficulty.
+Learn and feel the Beat to get points, but pay attention to the random "**STOPS!**" in the music, to prevent you from getting minus points.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on how to deploy the project on a live system.
+- Clone this repository
+- Open the projekt in Unity
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-    Give examples
-
-### Installing
-
-A step by step series of examples that tell you how to get a development
-env running
-
-Say what the step will be
-
-    Give the example
-
-And repeat
-
-    until finished
-
-End with an example of getting some data out of the system or using it
-for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-    Give an example
-
-### And coding style tests
-
-Explain what these tests test and why
-
-    Give an example
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
-    for the Code of Conduct
-  - [Creative Commons](https://creativecommons.org/) - Used to choose
-    the license
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions
-available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
+- Currently build in Unity 2020.3.27f
+- Optimized for WebGL (only) 
 
 ## Authors
 
   - **Billie Thompson** - *Provided README Template* -
     [PurpleBooth](https://github.com/PurpleBooth)
+  - **Frederik Schneider** - *Game Creator and added information for the Game* - 
+    [Zeltoss](https://github.com/Zeltoss)
 
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
 
 ## License
 
@@ -100,6 +37,4 @@ details
 
 ## Acknowledgments
 
-  - Hat tip to anyone whose code was used
-  - Inspiration
-  - etc
+  - Thank you Linda for your help and support for my game!
